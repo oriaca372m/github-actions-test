@@ -1,3 +1,4 @@
+// returns sum of arguments
 function sum(a, b) {
 	return a + b
 }
